@@ -1,2 +1,2 @@
-# GrowthLMS
-Growth LMS (Learning Management System)
+# Growth
+Growth Social media platform
