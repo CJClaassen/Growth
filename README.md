@@ -1,2 +1,2 @@
 # Growth
-Growth Social media platform
+Growth social media platform
