@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+}
+#TopBar{
+    border: 2px solid #000000;
+    padding: 5px;
+    width: 98%;
+    height: 150px;
+}
+#TheLogo{
+    display: inline-block;
+    float: left;
+    vertical-align: top;
+}
+#TheTitle{
+    display: inline-block;
+    position: fixed;
+    left: 40%;
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+}
+#TheLoginIcon{
+    display: inline-block;
+    float: right;
+    vertical-align: top;
+}
+#TheLogo img{
+    width: 335px;
+    height: 132px;
+}
+
+#TheLoginIcon img{
+    width: 95px;
+    height: 95px;
+    vertical-align: center;
+    horiz-align: right;
+    float: right;
+}
+
+#TheTitle h1{
+    font-size: 82px;
+    text-align: center;
+
+}
+
+.borderDiv{
+   /* border: 2px solid #000000; */
+    padding: 10px;
+    margin: 15px;
+    width: auto;
+    height: auto;
+}

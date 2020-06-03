@@ -1,0 +1,30 @@
+#MainNavbar{
+    width: 100%;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+#TheLogo img{
+    width: 235px;
+    height: 100px;
+}
+
+#TheUserMenuIcon img{
+    width: 100px;
+    height: 100px;
+}
+
+.NavbarLinkSelected {
+    display: inline-block;
+    font-size: 32px;
+    text-underline: black;
+    margin: auto;
+    padding: 50px;
+}
+
+.NavbarLink {
+    display: inline-block;
+    font-size: 32px;
+    margin: auto;
+    padding: 50px;
+}
