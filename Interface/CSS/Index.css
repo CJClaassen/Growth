@@ -1,7 +1,17 @@
 #MainNavbar{
-    width: 100%;
+    position: fixed;
+    top: 5px;
+    width: 98%;
     font-family: Arial;
     font-weight: bold;
+    margin: auto;
+    border: 5px solid black;
+    padding: 5px;
+    background: white;
+}
+
+#MainBody{
+    margin-top: 200px;
 }
 
 #TheLogo img{
@@ -17,14 +27,50 @@
 .NavbarLinkSelected {
     display: inline-block;
     font-size: 32px;
-    text-underline: black;
+    text-decoration: underline;
     margin: auto;
-    padding: 50px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .NavbarLink {
     display: inline-block;
     font-size: 32px;
     margin: auto;
-    padding: 50px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.FooterLink{
+    display: inline-block;
+    font-size: 32px;
+    margin: auto;
+    /*padding: 50px;*/
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#theFooterBox{
+    position: fixed;
+    bottom: 5px;
+    margin: auto;
+    width: 98%;
+    border: 5px solid black;
+    /*padding: 5px;*/
+    padding-left: 5px;
+    padding-right: 5px;
+    background: white;
+}
+
+#theFooter{
+    margin: auto;
+    width: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
 }
